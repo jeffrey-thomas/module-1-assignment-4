@@ -1,0 +1,21 @@
+body{
+    background:url('images/caleb-riston-TXiBwX0kg-Q-unsplash.jpg') no-repeat center center fixed;
+    background-size:cover;
+    padding-top:88px;
+}
+
+.card{
+    background-color:rgba(255,255,255,0.5);
+}
+
+@media screen and (max-width:768px) {
+    body {
+        padding-top:208px;
+    }
+}
+
+@media screen and (max-width:356px) {
+    body {
+        padding-top:248px;
+    }
+}
